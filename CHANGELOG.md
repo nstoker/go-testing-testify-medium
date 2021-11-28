@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## v0.0.1 2021-11-28
+
 - Initial project build
 - Adds initial test for the `Add` function.
 - Adds table test for a `IsLowerCase` function
